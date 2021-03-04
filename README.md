@@ -20,7 +20,7 @@ This assignment utilises:
 
 ## Sample of Queries in PgAdmin4
 
-![SQL code](EmployeeSQL/Images/sql_code)
+![SQL code](EmployeeSQL/Images/sql_code.png)
 
 
 ## Histogram of Salary Range for company
