@@ -9,7 +9,7 @@ This assignment utilises:
  * CSV file importing to SQL platform PgAdmin4 with Postgress
     * CSV files found in DATA folder
     * schema to create tables found in schema.sql
- * Querying the CVS data in PgAdmin4 to get sepcific results
+ * Querying the CSV data in PgAdmin4 to get sepcific results
     * query listed in query.sql along with corresponding code
  * Juypter notebook for testing if data provided was ficticious material 
     * Using sqlalchemy, matplotlib, pandas and numpy
